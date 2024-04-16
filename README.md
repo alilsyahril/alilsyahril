@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Data Analyst at [Vidio.com](https://www.vidio.com/)**
 
-- 🌱 I’m currently learning **about NLP and its use cases in solving real world business and political problems**
+- 🌱 I’m passionate of **utilizing data analytics to solve real world business, social, and political problems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alilsyahril](https://github.com/alilsyahril)
 
